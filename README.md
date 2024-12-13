@@ -1,6 +1,6 @@
 # Spotify Data Analysis
 
-![Logo](Spotify Logo.png)
+![Logo](Spotify%20Logo.png)
 
 ## Overview
 This project analyzes a Spotify dataset to uncover insights about songs, artists, and trends in music preferences. By examining various attributes and patterns, the analysis provides a deeper understanding of what makes tracks popular and how different features contribute to their success.
